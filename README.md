@@ -15,7 +15,6 @@ This is my profile, where I'll share projects, experiments, and things I'm curre
 
 - Bootstrap, JavaScript, WordPress, HTML5, CSS3
 - Figma (UI/UX), Rnote, VSCodium
-- Claude AI
 
 ---
 
