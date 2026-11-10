@@ -11,11 +11,11 @@ This is my recent profile, where I will share some projects, experiments, and th
 
 ## Tools & Tech
 
--BootStrap, JavaScript, WordPress, HTML5, CSS3
+- BootStrap, JavaScript, WordPress, HTML5, CSS3
 
--Figma UI/UX, Rnote, VScodium
+- Figma UI/UX, Rnote, VScodium
 
--ClaudAI
+- ClaudAI
 
 
 <!--
