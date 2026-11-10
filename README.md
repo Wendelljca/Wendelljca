@@ -1,22 +1,19 @@
-## Hey there 👋
-I`m Wendell, a web developer and software engineer based in Brasil.
+<WritingBlock id="73192" variant="document">## Hey there 👋
 
-I mostly work on frontend stuff - Boostrap, JavaScript, WordPress, HTML5, CSS3.
+I'm Wendell, a web developer and software engineer based in Brazil.
 
-I also use Figma dor UI/UX design and sketch out ideas.
+I mostly work on frontend development — Bootstrap, JavaScript, WordPress, HTML5, and CSS3.
 
-This is my recent profile, where I will share some projects, experiments, and things I am currently working on.
+I also use Figma for UI/UX design and sketching out ideas.
 
----
+This is my profile, where I'll share projects, experiments, and things I'm currently working on.
 
-## Tools & Tech
+Tools & Tech
+- Bootstrap, JavaScript, WordPress, HTML5, CSS3
 
-- BootStrap, JavaScript, WordPress, HTML5, CSS3
+- Figma (UI/UX), Rnote, VSCodium
 
-- Figma UI/UX, Rnote, VScodium
-
-- ClaudAI
-
+- Claude AI</WritingBlock>
 
 <!--
 **Wendelljca/Wendelljca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
