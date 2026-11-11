@@ -9,7 +9,6 @@
 [![GitHub](https://img.shields.io/badge/GitHub-3B2B22?style=for-the-badge&logo=github&logoColor=F5EBDD)](https://github.com/Wendelljca)
 
 
----
 
 ## About Me
 
