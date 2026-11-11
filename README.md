@@ -1,4 +1,4 @@
-# Hi, I`m Wendell Junio! <img src="https://user-images.githubusercontent.com/74038190/216120974-24a76b31-7f39-41f1-a38f-b3c1377cc612.png" width="40" />
+# Hi, I'm Wendell Junio! <img src="https://user-images.githubusercontent.com/74038190/216120974-24a76b31-7f39-41f1-a38f-b3c1377cc612.png" width="40" />
 
 **`Digital Tinkerer`**
 
