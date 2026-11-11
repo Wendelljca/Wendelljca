@@ -2,7 +2,7 @@
 
 **`Digital Tinkerer`**
 
-
+[![Instagram](https://img.shields.io/badge/Instagram-3B2B22?style=for-the-badge&logo=instagram&logoColor=F5EBDD)](https://www.instagram.com/wistful.fx/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-3B2B22?style=for-the-badge&logo=googlechrome&logoColor=F5EBDD)](YOUR_PORTFOLIO_URL)
 [![GitHub](https://img.shields.io/badge/GitHub-3B2B22?style=for-the-badge&logo=github&logoColor=F5EBDD)](https://github.com/Wendelljca)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-3B2B22?style=for-the-badge&logo=linkedin&logoColor=F5EBDD)](https://www.linkedin.com/in/wendell-junio-704825365/)
