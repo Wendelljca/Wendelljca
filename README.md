@@ -13,19 +13,20 @@
 
 ## About Me
 
-I build, ship, and tell the story in public.
+I'm Wendell, a web developer and software engineer based in Brazil.
 
-- Growth Lead at Nextwork, helping 145,000+ students learn Cloud and AI.
-- Interested in cloud infrastructure, machine learning, and emerging technologies.
+- I mostly work on frontend stuff
+- I also use Figma for UI/UX design and sketching out ideas.
+- Interested in websites with eye-catching designs that don't compromise usability, as well as emerging technologies.
 - Passionate about building things, experimenting, and sharing what I learn.
+  
+This is my profile, where I'll share projects, experiments, and things I'm currently working on.
 
 ## Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=aws,docker,terraform,githubactions,linux,git" alt="Tech stack" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,wordpress,figma,git,github,vscode,linux&theme=light" alt="Tech Stack" />
 </p>
-
-`AWS` · `Docker` · `CI/CD` · `Terraform`
 
 ---
 
