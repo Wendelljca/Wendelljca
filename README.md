@@ -20,7 +20,7 @@ I'm Wendell, a web developer and software engineer based in Brazil.
   
 This is my profile, where I'll share projects, experiments, and things I'm currently working on.
 
-## Tech Stack  <img src="https://camo.githubusercontent.com/5417b2eeea698072b823820f973c430610314505b97d2acf286a91797e460d1d/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f57556c706c634d704f43456d5447427442572f67697068792e676966" width="40" />
+## Tech Stack  <img src="https://camo.githubusercontent.com/f4f5bdf6840c5eb4da59996db3edf3c161b6c513f2d47ea87587e0f8446323f9/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f57556c706c634d704f43456d5447427442572f67697068792e676966" width="40" />
 
 <p align="left">
   <img src="https://www.readmecodegen.com/api/social-icon?name=html5,css3,javascript,java,bootstrap,wordpress,figma,git,github,vscode,linux&size=48&color=F5EBDD&bg=3B2B22&shape=rect" alt="Tech Stack" />
